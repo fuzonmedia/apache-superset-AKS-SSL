@@ -6,4 +6,4 @@ Apache superset is a modern enterprise-ready business intelligence web applicati
 
 This repo consist with all the required YML that will help to deploy apache superset in a Azure kubernetes (K8S) cluster having your own domain / subdomain pointed with Lets encrypt SSL setup
 
-For detailed instructions of steps use my article posted here 
+For detailed instructions of steps use my article posted [**Here**] (https://medium.com/@niladridey933/installation-of-superset-in-k8s-aks-having-ssl-installed-a5d5e1bcdc82)
